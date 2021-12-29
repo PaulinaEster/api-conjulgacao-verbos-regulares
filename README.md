@@ -1,8 +1,11 @@
-### Exemplo de Readme para o seu projeto
-
 # api-conulgacao-verbos-regulares
-- Verbos regulares são verbos cuja conjugação se enquadra nos modelos fixos de conjugação verbal, sem apresentar alterações no radical ou nas terminações verbais.
-
+- Verbos regulares são verbos cuja conjugação se enquadra nos modelos fixos de conjugação verbal, sem apresentar alterações no radical ou nas terminações verbais. Ex.:
+```
+  cantar
+  jogar
+  vender
+  partir
+```
 Projeto que sobe um Container e, neste, uma API RESTful com o Swagger
 
 ## Getting Started
